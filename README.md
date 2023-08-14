@@ -6,7 +6,7 @@ Link Model Deployment : https://huggingface.co/spaces/zidnyyasrah/anti-money-lau
 
 # Anti Money Laundering
 
-Pada Final Project ini, saya membuat classification model untuk mengklasiifikasikan apakah seseorang melakukan tindakan money laundering pada sebuah transaksi.
+Objective yang ingin saya capai disini adalah membantu financial institutions khusunya bank danamon dalam pencegahan pencucian uang dengan cara membuat classification model machine learning untuk memprediksi apakah ada indikasi money laundering pada sebuah transaksi.
 
 # Hasil Analisis 
 
